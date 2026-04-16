@@ -1,0 +1,10 @@
+#csv files
+*.csv
+
+#excel
+*.xlsx
+
+#folders
+done/
+toShow/
+__pycache__/
