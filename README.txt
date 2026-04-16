@@ -1,4 +1,4 @@
-Project written by Caden Guillot under Dr. Phillip Matich
+Project written by C Guillot under Dr. Phillip Matich
 Texas A&M University
 
 
