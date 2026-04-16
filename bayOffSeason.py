@@ -69,5 +69,5 @@ for b in range(1, len(overall)): #go by bays
     years1.clear()
     years2.clear()
     plot.legend(['Age 0', 'Age 1', 'Age 2'], loc='lower left')
-    plot.savefig(bayTitle + "Offseason" + ".png")
+    plot.savefig("graphs/" + bayTitle + "Offseason" + ".png")
     plot.show()

@@ -93,7 +93,7 @@ for b in range(1, len(overall)): #go by bays
         if ((doyEnd2 != -1) & (doyBegin2 != 999)):
             plot.plot([doyBegin2, doyEnd2], [year,year], 'o-', markersize = pointSize)
             
-    plot.savefig(bayTitle + ".png")
+    plot.savefig("graphs/" + bayTitle + ".png")
     plot.show()
 
 
