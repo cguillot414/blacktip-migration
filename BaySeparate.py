@@ -43,8 +43,8 @@ from dayOfYear import DOY
 # =============================================================================
 
 overall = [[]]
-# filename = input("Type name of file WITH .xsls, csv, etc: ")
-filename = "Texas-blacktip-shark-data_Blacktip-size-data-for-analys.csv"
+filename = input("Type name of file WITH .xsls, csv, etc: ")
+#filename = "Texas-blacktip-shark-data_Blacktip-size-data-for-analys.csv"
 file = open(filename,'r')
 lineList = file.readlines()
 num_lines = sum(1 for _ in file)
