@@ -5,6 +5,5 @@
 *.xlsx
 
 #folders
-done/
-toShow/
-__pycache__/
+*/
+!graphs/
